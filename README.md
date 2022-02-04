@@ -11,23 +11,6 @@ Write a Scheme program that implements the following functions:
 - `(area point1 point2 point3)`. Calculates the area of a triangle defined by the three points
 - `(calculate-triangle point1 point2 point3)`. Calculates the perimeter, area and interior angles of the triangle formed by the three points.
 
-## Assignment Requirements
-- Good programming practices
-- Correct and readable indentation
-- This is an strictly individual assignment
-
-## Delivery Method
-You will push your final version to the repository of the assignment before the deadline, your program must be in a file named `threepoints.scm`  **[You MUST name your program this, failure will result in zero grade]**
-
-## Assessment and Grading
-Assessment will consider the following factors in the grading of the project:
--	Adherence to instructions
--	Correct function of the program
--	No runtime errors
--	Late deliveries will have a zero mark
--	Plagiarism will have a double zero mark (in addition to losing 10% of your final grade, the group that plagiarizes will lose an additional 10% of their final grade), besides there will be a report filed in the students’ academic record.
--	Each program will be loaded in Scheme and test it to check if the functions are in working order.
-
 ## Sample Output
 ```
 scheme-assignments arias$ scheme -load threepoints.scm
